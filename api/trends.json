@@ -1,25 +1,8 @@
 {
-  "generated_at": "2026-04-23T15:23:58.907892+08:00",
-  "total_titles_processed": 712,
+  "generated_at": "2026-04-24T01:44:26.483368+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "/\\bOpenAI\\b|\\bChatGPT\\b|\\bSora\\b|\\bDALL-E\\b|\\bSam Altman\\b|\\bGreg Brockman\\b/ => OpenAI /\\bAnthropic\\b|\\bClaude\\b|\\bDario Amodei\\b/ => Claude 人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "甲骨文(ORCL.N)：随着公司为满足日益增长的客户需求而扩展人工智能基础设施，位于阿比林等地的设施已投入运营，同时新园区项目仍在按计划推进。",
-          "url": "https://flash.jin10.com/detail/20260423021134912800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        }
-      ]
-    },
     {
       "keyword_group": "# 前沿科技 量子 脑机 基因",
       "match_count": 1,
@@ -29,11 +12,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33032920",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时23分"
+          "time_info": "01时44分"
         }
       ]
     }
