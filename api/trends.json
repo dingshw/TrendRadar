@@ -1,40 +1,10 @@
 {
-  "generated_at": "2026-04-23T03:03:37.069512+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-04-23T15:23:58.907892+08:00",
+  "total_titles_processed": 712,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "[芯片] 芯片 光刻机 半导体",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3770463",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 03时03分]"
-        },
-        {
-          "title": "地缘缓和叠加强劲财报，美股指高开，费城半导体指数连续第16天上涨，布油重回100美元、黄金涨幅回落",
-          "url": "https://wallstreetcn.com/articles/3770587",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 03时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "[AI 相关] /(?<![a-zA-Z])ai(?![a-zA-Z])/ 人工智能",
+      "keyword_group": "/\\bOpenAI\\b|\\bChatGPT\\b|\\bSora\\b|\\bDALL-E\\b|\\bSam Altman\\b|\\bGreg Brockman\\b/ => OpenAI /\\bAnthropic\\b|\\bClaude\\b|\\bDario Amodei\\b/ => Claude 人工智能",
       "match_count": 1,
       "titles": [
         {
@@ -44,29 +14,29 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         }
       ]
     },
     {
-      "keyword_group": "机器人 具身智能",
+      "keyword_group": "# 前沿科技 量子 脑机 基因",
       "match_count": 1,
       "titles": [
         {
-          "title": "能定位会判断，AI乒乓机器人击败人类高手",
-          "url": "https://wallstreetcn.com/livenews/3092758",
-          "source": "华尔街见闻-快讯",
+          "title": "打一针有望治愈先天性耳聋，中国医生基因疗法多中心临床研究登《自然》",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33032920",
+          "source": "澎湃新闻",
           "ranks": [
-            22
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时56分"
+          "time_info": "15时23分"
         }
       ]
     }
   ],
-  "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
+  "report_image_url": "https://dingshw.github.io/TrendRadar/img/news.jpg"
 }
