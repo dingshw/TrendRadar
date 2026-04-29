@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-04-29T01:57:12.555459+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-04-30T01:50:05.151677+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "/\\bOpenAI\\b|\\bChatGPT\\b|\\bSora\\b|\\bDALL-E\\b|\\bSam Altman\\b|\\bGreg Brockman\\b/ => OpenAI /\\bAnthropic\\b|\\bClaude\\b|\\bDario Amodei\\b/ => Claude 人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国食品药品监督管理局（FDA）正在利用人工智能加速临床试验。",
-          "url": "https://flash.jin10.com/detail/20260429011959316800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://dingshw.github.io/TrendRadar/img/news.jpg"
 }
