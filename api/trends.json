@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-05-09T01:44:43.678421+08:00",
-  "total_titles_processed": 303,
+  "generated_at": "2026-05-10T01:10:57.054391+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 前沿科技 量子 脑机 基因",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国内首台“双核原子”量子计算机现身 有望8个月内完成交付",
-          "url": "https://www.cls.cn/detail/2366383",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "我国首台双核原子量子计算机研制成功",
-          "url": "https://www.cls.cn/detail/2366233",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://dingshw.github.io/TrendRadar/img/news.jpg"
 }
