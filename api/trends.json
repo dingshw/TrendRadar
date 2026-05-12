@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T02:04:24.669158+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-05-13T02:17:17.659178+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "据华盛顿邮报：特朗普最早可能在周一签署一项关于人工智能安全的行政命令。",
-          "url": "https://flash.jin10.com/detail/20260512013750764800",
-          "source": "金十数据",
+          "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时04分"
+          "time_info": "02时17分"
         }
       ]
     }
