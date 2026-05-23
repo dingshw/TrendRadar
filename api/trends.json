@@ -1,22 +1,39 @@
 {
-  "generated_at": "2026-05-23T02:03:52.764484+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-05-24T01:16:29.126058+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "/\\bOpenAI\\b|\\bChatGPT\\b|\\bSora\\b|\\bDALL-E\\b|\\bSam Altman\\b|\\bGreg Brockman\\b/ => OpenAI /\\bAnthropic\\b|\\bClaude\\b|\\bDario Amodei\\b/ => Claude 人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "人工智能会让印度成为最大输家吗",
+          "url": "https://www.toutiao.com/trending/7643036933022551558/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        }
+      ]
+    },
     {
       "keyword_group": "# 前沿科技 量子 脑机 基因",
       "match_count": 1,
       "titles": [
         {
-          "title": "AI浪潮提振全球股市，道指新高，量子计算股拉升，老虎证券、富途大跌逾30%，油价涨势暂歇",
-          "url": "https://wallstreetcn.com/articles/3772907",
-          "source": "华尔街见闻",
+          "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
+          "url": "https://www.cls.cn/detail/2379649",
+          "source": "财联社热门",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时03分"
+          "time_info": "01时16分"
         }
       ]
     }
