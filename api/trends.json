@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T02:33:30.251706+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-05-29T02:43:31.197253+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
@@ -8,32 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "据科技媒体TechCrunch：Meta公司推出Instagram、Facebook和WhatsApp订阅服务，未来还将推出更多，包括人工智能计划。",
-          "url": "https://flash.jin10.com/detail/20260528020659080800",
-          "source": "金十数据",
+          "title": "两部门联手 系统布局人工智能计量能力建设",
+          "url": "https://www.cls.cn/detail/2384415",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 前沿科技 量子 脑机 基因",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "日本福岛核废区出现大量具有新基因的变异品种「超级猪」，这种猪有哪些特点？跟核辐射有关系吗？",
-          "url": "https://www.zhihu.com/question/2042329760202581247",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "time_info": "02时43分"
         }
       ]
     }
