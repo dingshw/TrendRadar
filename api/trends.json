@@ -1,22 +1,55 @@
 {
-  "generated_at": "2026-05-29T02:43:31.197253+08:00",
+  "generated_at": "2026-05-30T02:41:47.087813+08:00",
   "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "/\\bOpenAI\\b|\\bChatGPT\\b|\\bSora\\b|\\bDALL-E\\b|\\bSam Altman\\b|\\bGreg Brockman\\b/ => OpenAI /\\bAnthropic\\b|\\bClaude\\b|\\bDario Amodei\\b/ => Claude 人工智能",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
-          "title": "两部门联手 系统布局人工智能计量能力建设",
-          "url": "https://www.cls.cn/detail/2384415",
-          "source": "财联社热门",
+          "title": "美联储戴利：预计不会因人工智能出现大规模失业或岗位流失情况。",
+          "url": "https://flash.jin10.com/detail/20260530010932299800",
+          "source": "金十数据",
           "ranks": [
-            3
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时43分"
+          "time_info": "02时41分"
+        },
+        {
+          "title": "美联储戴利：预计人工智能将推动生产率增长出现积极迹象。",
+          "url": "https://flash.jin10.com/detail/20260530010719433800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "美联储戴利：实现人工智能持续生产力增长的障碍主要是监管问题。",
+          "url": "https://flash.jin10.com/detail/20260530010602757800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "挪威首相：期待与中国在人工智能等全球性议题上加强沟通",
+          "url": "https://wallstreetcn.com/livenews/3111564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         }
       ]
     }
