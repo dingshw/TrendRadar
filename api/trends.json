@@ -1,39 +1,33 @@
 {
-  "generated_at": "2026-06-01T01:21:23.501695+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-02T04:25:17.929257+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "/\\bOpenAI\\b|\\bChatGPT\\b|\\bSora\\b|\\bDALL-E\\b|\\bSam Altman\\b|\\bGreg Brockman\\b/ => OpenAI /\\bAnthropic\\b|\\bClaude\\b|\\bDario Amodei\\b/ => Claude 人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "乌克兰总统泽连斯基：美国企业拥有我们所不具备的先进人工智能技术。而反过来，由于我们积累了丰富的实战经验，我们也掌握着许多美国人所没有的能力和经验。",
-          "url": "https://flash.jin10.com/detail/20260531234826092800",
-          "source": "金十数据",
+          "title": "大力推进人工智能+能源融合发展",
+          "url": "https://www.douyin.com/hot/2520343",
+          "source": "抖音",
           "ranks": [
-            21
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 前沿科技 量子 脑机 基因",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 04时25分]"
+        },
         {
-          "title": "如何评价中国科学技术大学潘建伟团队的量子计算研究？",
-          "url": "https://www.zhihu.com/question/2038197145359102036",
-          "source": "知乎",
+          "title": "OpenAI在一份声明中针对美国佛罗里达州公诉人的指控表示，它已经为年轻用户制定了保障措施，包括“更具保护性的体验”以及允许父母监控孩子如何使用该工具的工具。 OpenAI表示：“人工智能是一项全新的、强大的技术，我们相信未成年人需要重大的保护，这就是为什么我们实施了行业领先的保护措施和政策。我们深知，仅仅指出这些工作并不能让逝去的孩子复生，但我们致力于将这项工作做好。”",
+          "url": "https://wallstreetcn.com/livenews/3112620",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "04时25分"
         }
       ]
     }
