@@ -1,44 +1,22 @@
 {
-  "generated_at": "2026-06-09T02:35:51.144320+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-10T02:20:53.724345+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "/\\bOpenAI\\b|\\bChatGPT\\b|\\bSora\\b|\\bDALL-E\\b|\\bSam Altman\\b|\\bGreg Brockman\\b/ => OpenAI /\\bAnthropic\\b|\\bClaude\\b|\\bDario Amodei\\b/ => Claude 人工智能",
-      "match_count": 3,
+      "keyword_group": "# 前沿科技 量子 脑机 基因",
+      "match_count": 1,
       "titles": [
         {
-          "title": "美国科技记者古尔曼：尽管这次发布并没有带来颠覆性的创新，但苹果(AAPL.O)刚刚通过实用的人工智能功能、真正能够发挥作用的Siri以及性能提升，重新构建了其各大平台的基础架构。考虑到未来三年将有一系列重磅新设备搭载这些操作系统，这一点至关重要。这是一个正确的决定。",
-          "url": "https://flash.jin10.com/detail/20260609021907222800",
-          "source": "金十数据",
+          "title": "脑机接口公司博睿康完成IPO辅导",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33339692",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "事关数据赋能人工智能发展，国家层面首次系统部署",
-          "url": "https://www.cls.cn/detail/2393777",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "OpenAI：研究人员将与OpenAI经济研究团队合作，就人工智能如何影响劳动者、企业、机构及更广泛的经济体系提供实证分析。",
-          "url": "https://flash.jin10.com/detail/20260609020813269800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
+          "time_info": "02时20分"
         }
       ]
     }
