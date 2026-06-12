@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-12T02:54:44.074648+08:00",
+  "generated_at": "2026-06-13T02:20:46.740858+08:00",
   "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 前沿科技 量子 脑机 基因",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "湘雅医院成功用脑机接口技术，使失明患者「复明」，这是如何实现的？",
-          "url": "https://www.zhihu.com/question/2046579534338547882",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时54分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://dingshw.github.io/TrendRadar/img/news.jpg"
 }
