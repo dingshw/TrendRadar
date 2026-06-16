@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-06-16T03:55:50.675048+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-06-17T03:50:40.249547+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "/\\bOpenAI\\b|\\bChatGPT\\b|\\bSora\\b|\\bDALL-E\\b|\\bSam Altman\\b|\\bGreg Brockman\\b/ => OpenAI /\\bAnthropic\\b|\\bClaude\\b|\\bDario Amodei\\b/ => Claude 人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "支撑人工智能等高质量发展 算力网开启万亿级投资周期",
+          "url": "https://www.cls.cn/detail/2401236",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时50分"
+        },
+        {
+          "title": "美国城堡证券：宽松的金融条件、持续的供应链中断、劳动力市场的加速复苏以及人工智能投资的激增正相互叠加，持续维持着通胀压力。",
+          "url": "https://flash.jin10.com/detail/20260617030007710800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时50分"
+        },
+        {
+          "title": "消息人士称，美国商务部长卢特尼克在致Anthropic的信函中警告将对高级人工智能模型实施限制，这导致了Anthropic关闭Mythos模型的相关功能。",
+          "url": "https://flash.jin10.com/detail/20260617025425639800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时50分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://dingshw.github.io/TrendRadar/img/news.jpg"
 }
