@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-26T02:25:02.529685+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-27T02:03:19.856368+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# 前沿科技 量子 脑机 基因",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "基因太顶!铜牌假小子出圈",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355670&amp;topic_name=%E5%9F%BA%E5%9B%A0%E5%A4%AA%E9%A1%B6%21%E9%93%9C%E7%89%8C%E5%81%87%E5%B0%8F%E5%AD%90%E5%87%BA%E5%9C%88",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://dingshw.github.io/TrendRadar/img/news.jpg"
 }
