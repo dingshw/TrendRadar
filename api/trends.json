@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-07-03T02:02:32.063500+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-07-04T01:45:56.816753+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 前沿科技 量子 脑机 基因",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "脑机接口进医保 医院挤满想试的人",
-          "url": "https://www.baidu.com/s?wd=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E8%BF%9B%E5%8C%BB%E4%BF%9D+%E5%8C%BB%E9%99%A2%E6%8C%A4%E6%BB%A1%E6%83%B3%E8%AF%95%E7%9A%84%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://dingshw.github.io/TrendRadar/img/news.jpg"
 }
