@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T01:44:12.541923+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-23T01:40:34.104926+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "世界人工智能大会达成丰硕成果",
-          "url": "https://www.toutiao.com/trending/7664544012321426987/",
-          "source": "今日头条",
+          "title": "前所未有的人工智能失控事故！中方救场",
+          "url": "https://news.ifeng.com/c/8uyRMC8mtQh",
+          "source": "凤凰网",
           "ranks": [
-            3
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 01时44分]"
+          "appearance_count": 1,
+          "time_info": "01时40分"
         }
       ]
     }
