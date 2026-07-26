@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T01:14:02.725389+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-27T01:14:41.435755+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
@@ -8,32 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33656318",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 前沿科技 量子 脑机 基因",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "脑机接口迎重大突破：视网膜芯片获准在欧上市 可帮助患者恢复视力",
-          "url": "https://www.cls.cn/detail/2436840",
+          "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
+          "url": "https://www.cls.cn/detail/2437146",
           "source": "财联社热门",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
+          "appearance_count": 1,
+          "time_info": "01时14分"
         }
       ]
     }
