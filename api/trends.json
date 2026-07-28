@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T01:55:00.286344+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-07-29T01:46:01.998111+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
-          "url": "https://www.cls.cn/detail/2438053",
+          "title": "英伟达CEO黄仁勋：呼吁支持开放权重的人工智能模型。开放权重模型对人工智能的安全和保障至关重要。",
+          "url": "https://flash.jin10.com/detail/20260729012433089800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 前沿科技 量子 脑机 基因",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【每日收评】创业板指跌超7%创阶段新低，算力硬件股集体重挫，大消费、脑机接口概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2439030",
           "source": "财联社热门",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时54分 ~ 01时55分]"
+          "time_info": "[01时45分 ~ 01时46分]"
         }
       ]
     }
