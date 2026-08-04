@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T02:04:10.003604+08:00",
+  "generated_at": "2026-08-05T02:02:40.014346+08:00",
   "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
@@ -8,15 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "亚马逊云业务负责人：人工智能业务潜在规模非常巨大",
-          "url": "https://flash.jin10.com/detail/20260804005458816800",
-          "source": "金十数据",
+          "title": "活力中国调研行｜之江实验室王坚院士：人工智能应该像纸一样便宜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33711893",
+          "source": "澎湃新闻",
           "ranks": [
-            21
+            18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时04分"
+          "time_info": "02时02分"
         }
       ]
     }
