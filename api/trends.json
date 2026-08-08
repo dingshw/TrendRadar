@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T01:05:45.066038+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-09T00:50:58.706478+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
@@ -8,32 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI：已在Astra的所有智能体应用中实施针对高风险行为和失配问题的全面监控。根据目前针对Astra模型的准备框架评估结果，无法排除其具备关键网络能力的可能性。将与相关政府机构及选定的人工智能安全组织合作，对Astra的能力进行测试。",
-          "url": "https://flash.jin10.com/detail/20260808004202810800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 前沿科技 量子 脑机 基因",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "网友称寿命长短与外婆奶奶有关，只有母系遗传能遗传线粒体基因，这一说法有科学依据吗？遗传与寿命关系大吗？",
-          "url": "https://www.zhihu.com/question/2067926033827722629",
+          "title": "为什么体制内至今仍不鼓励用人工智能？",
+          "url": "https://www.zhihu.com/question/2042649810709239000",
           "source": "知乎",
           "ranks": [
-            15
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时05分"
+          "time_info": "00时50分"
         }
       ]
     }
